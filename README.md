@@ -1,1 +1,1 @@
-# whatsappchatanalyzer
+# whatsapp chat analyzer
